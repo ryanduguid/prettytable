@@ -1,10 +1,13 @@
 # PrettyTable
 
+Package, CI and coverage badges below refer to
+[upstream PrettyTable](https://github.com/prettytable/prettytable).
+
 [![PyPI version](https://img.shields.io/pypi/v/prettytable.svg?logo=pypi&logoColor=FFE873)](https://pypi.org/project/prettytable/)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/prettytable.svg?logo=python&logoColor=FFE873)](https://pypi.org/project/prettytable/)
 [![PyPI downloads](https://img.shields.io/pypi/dm/prettytable.svg)](https://pypistats.org/packages/prettytable)
-[![GitHub Actions status](https://github.com/prettytable/prettytable/workflows/Test/badge.svg)](https://github.com/prettytable/prettytable/actions)
-[![Codecov](https://codecov.io/gh/prettytable/prettytable/branch/main/graph/badge.svg)](https://codecov.io/gh/prettytable/prettytable)
+[![Upstream CI](https://github.com/prettytable/prettytable/workflows/Test/badge.svg)](https://github.com/prettytable/prettytable/actions)
+[![Upstream coverage](https://codecov.io/gh/prettytable/prettytable/branch/main/graph/badge.svg)](https://codecov.io/gh/prettytable/prettytable)
 [![Licence](https://img.shields.io/github/license/prettytable/prettytable.svg)](LICENSE)
 [![Code style: Black](https://img.shields.io/badge/code%20style-Black-000000.svg)](https://github.com/psf/black)
 [![Tidelift](https://tidelift.com/badges/package/pypi/prettytable)](https://tidelift.com/subscription/pkg/pypi-prettytable?utm_source=pypi-prettytable&utm_medium=badge)
