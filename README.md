@@ -10,7 +10,7 @@ Package, CI and coverage badges below refer to
 [![Upstream coverage](https://img.shields.io/codecov/c/github/prettytable/prettytable/main?style=flat&labelColor=000000)](https://codecov.io/gh/prettytable/prettytable)
 [![Licence](https://img.shields.io/github/license/prettytable/prettytable.svg?style=flat&labelColor=000000&color=66023C)](LICENSE)
 [![Code style: Black](https://img.shields.io/badge/code%20style-Black-000000.svg?style=flat&labelColor=000000&color=66023C)](https://github.com/psf/black)
-[![Tidelift](https://tidelift.com/badges/package/pypi/prettytable)](https://tidelift.com/subscription/pkg/pypi-prettytable?utm_source=pypi-prettytable&utm_medium=badge)
+[![Tidelift](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftidelift.com%2Fbadges%2Fpackage%2Fpypi%2Fprettytable&query=%2F*%5Blocal-name%28%29%3D%27svg%27%5D%2F*%5Blocal-name%28%29%3D%27title%27%5D&label=Tidelift&style=flat&labelColor=000000&color=66023C)](https://tidelift.com/subscription/pkg/pypi-prettytable?utm_source=pypi-prettytable&utm_medium=badge)
 
 PrettyTable lets you print tables in an attractive ASCII form:
 
