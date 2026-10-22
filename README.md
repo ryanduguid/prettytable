@@ -3,14 +3,11 @@
 Package, CI and coverage badges below refer to
 [upstream PrettyTable](https://github.com/prettytable/prettytable).
 
-[![PyPI version](https://img.shields.io/pypi/v/prettytable.svg?logo=pypi&logoColor=E5E4E2&style=flat&labelColor=000000&color=66023C)](https://pypi.org/project/prettytable/)
-[![Supported Python versions](https://img.shields.io/pypi/pyversions/prettytable.svg?logo=python&logoColor=E5E4E2&style=flat&labelColor=000000&color=66023C)](https://pypi.org/project/prettytable/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/prettytable.svg?style=flat&labelColor=000000&color=66023C)](https://pypistats.org/packages/prettytable)
-[![Upstream CI](https://img.shields.io/github/actions/workflow/status/prettytable/prettytable/test.yml?label=Test&style=flat&labelColor=000000)](https://github.com/prettytable/prettytable/actions)
-[![Upstream coverage](https://img.shields.io/codecov/c/github/prettytable/prettytable/main?style=flat&labelColor=000000)](https://codecov.io/gh/prettytable/prettytable)
-[![Licence](https://img.shields.io/github/license/prettytable/prettytable.svg?style=flat&labelColor=000000&color=66023C)](LICENSE)
-[![Code style: Black](https://img.shields.io/badge/code%20style-Black-000000.svg?style=flat&labelColor=000000&color=66023C)](https://github.com/psf/black)
-[![Tidelift](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftidelift.com%2Fbadges%2Fpackage%2Fpypi%2Fprettytable&query=%2F*%5Blocal-name%28%29%3D%27svg%27%5D%2F*%5Blocal-name%28%29%3D%27title%27%5D&label=Tidelift&style=flat&labelColor=000000&color=66023C)](https://tidelift.com/subscription/pkg/pypi-prettytable?utm_source=pypi-prettytable&utm_medium=badge)
+<div align="center">
+
+[![PyPI version](https://img.shields.io/pypi/v/prettytable.svg?logo=pypi&logoColor=E5E4E2&style=flat&labelColor=000000&color=66023C)](https://pypi.org/project/prettytable/) [![Supported Python versions](https://img.shields.io/pypi/pyversions/prettytable.svg?logo=python&logoColor=E5E4E2&style=flat&labelColor=000000&color=66023C)](https://pypi.org/project/prettytable/) [![PyPI downloads](https://img.shields.io/pypi/dm/prettytable.svg?style=flat&labelColor=000000&color=66023C)](https://pypistats.org/packages/prettytable) [![Upstream CI](https://img.shields.io/github/actions/workflow/status/prettytable/prettytable/test.yml?label=Test&style=flat&labelColor=000000)](https://github.com/prettytable/prettytable/actions) [![Upstream coverage](https://img.shields.io/codecov/c/github/prettytable/prettytable/main?style=flat&labelColor=000000)](https://codecov.io/gh/prettytable/prettytable) [![Licence](https://img.shields.io/pypi/l/prettytable.svg?style=flat&labelColor=000000&color=66023C)](LICENSE) [![Code style: Black](https://img.shields.io/badge/code%20style-Black-000000.svg?style=flat&labelColor=000000&color=66023C)](https://github.com/psf/black) [![Tidelift](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftidelift.com%2Fbadges%2Fpackage%2Fpypi%2Fprettytable&query=%2F*%5Blocal-name%28%29%3D%27svg%27%5D%2F*%5Blocal-name%28%29%3D%27title%27%5D&label=Tidelift&style=flat&labelColor=000000&color=66023C)](https://tidelift.com/subscription/pkg/pypi-prettytable?utm_source=pypi-prettytable&utm_medium=badge)
+
+</div>
 
 PrettyTable lets you print tables in an attractive ASCII form:
 
